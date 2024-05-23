@@ -1,11 +1,18 @@
-(https://github.com/madhan999/madhan999/blob/main/banner.jpeg)
+![I am a Software Developer](https://github.com/madhan999/madhan999/blob/main/banner.jpeg)
 ### Hi there 👋, my name is Madhan
 #### I am a Software Developer
-![I am a Software Developer]
 
 I'm madhan with 3+ years of experience in software development with expertise of Backend Development. I spend most of the time in building software and learning new technologies
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+## Skills And Experience:
+* NodeJs
+* Express
+* Rest API
+* Graphql
+* Typescript
+* Javascript
+* Postgresql
+* AWS services
 
 - 📫 How to reach me: udayagirimadhan999@gmail.com 
 
