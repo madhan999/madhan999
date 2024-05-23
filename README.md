@@ -26,7 +26,8 @@ I'm madhan with 3+ years of experience in software development with expertise of
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
 </div>
 
-
+<br>
+<br>
 - 📫 How to reach me: udayagirimadhan999@gmail.com 
 
 
